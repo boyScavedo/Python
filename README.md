@@ -14,3 +14,4 @@ So here in this ReadMe file I will be updating my progress of the 100 days of co
     - Modules/Import
     - Conditional/Looping Statements, etc
 ### Summary
+The programming went well, I forgot how simple python programming really was. I completed from Day 1 to Day 9 today. Check the README file from [here](https://github.com/boyScavedo/Python/tree/main/Day%20One)
