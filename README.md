@@ -6,8 +6,11 @@ So here in this ReadMe file I will be updating my progress of the 100 days of co
 
 ## Index
 - 
+- [Day Three](https://github.com/boyScavedo/Python/tree/main/Day%20Three)
 - [Day Two](https://github.com/boyScavedo/Python/tree/main/Day%20Two)
 - [Day One](https://github.com/boyScavedo/Python/tree/main/Day%20One)
+## Day Three - 2024/11/21
+Sorry People, I could not do any coding since I had been sick from the morning and I spend almost all my day on hospital bed. I'll do better tomorrow.
 ## Day Two - 2024/11/20
 ### Goal
 - String Manipulation
